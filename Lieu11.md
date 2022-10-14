@@ -6,5 +6,5 @@ Un écriteau où l'on peut lire "Crème de cum d'Ogre à seulement 4pièces d'or
 
 [Se diriger vers la porte puis l'ouvrir](https://github.com/cfourcaud/TP2_Groupe3/blob/main/Lieu10.md "Ouvrir la porte").
 
-[Faire demi-tour](https://github.com/cfourcaud/TP2_Groupe3/blob/main/Lieu1.md).
+[Prendre une pinte de cum et faire demi-tour](https://github.com/cfourcaud/TP2_Groupe3/blob/main/Lieu1.md).
 
